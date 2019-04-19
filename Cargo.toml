@@ -1,5 +1,5 @@
 [package]
-name = "PoW_modoki"
+name = "pow_modoki"
 version = "0.1.0"
 authors = ["NamahageTahara <0802creo@gmail.com>"]
 edition = "2018"
