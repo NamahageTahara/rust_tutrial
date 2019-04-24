@@ -42,6 +42,7 @@ fn cal_hash(_data: &String) -> (u64,u64,u64)  {
     let mut _nonce;
     let mut _nnonce : u64;
     let mut _hash;
+    let k;
 
     let diff : u64 = 1000000000000000000;   //ディフィカルティ。マイニングの難易度。数が小さいほど難しい。18446744073709551615が最大
 
